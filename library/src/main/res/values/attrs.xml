@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="LuckyWheelView">
+        <attr name="lsw_backgroundColor" format="color"/>
+        <attr name="lsw_textColor" format="color"/>
+        <attr name="lsw_borderColor" format="color"/>
+        <attr name="lsw_centerImage" format="reference"/>
+        <attr name="lsw_cursorImage" format="reference"/>
+        <attr name="lsw_edgeWidth" format="dimension"/>
+        <attr name="lsw_textSize" format="dimension"/>
+    </declare-styleable>
+    <declare-styleable name="CursorView">
+    <attr name="lsw_cursor_bodyColor" format="color"/>
+    <attr name="lsw_cursor_borderColor" format="color"/>
+    <attr name="lsw_cursor_centerColor" format="color"/>
+</declare-styleable>
+</resources>
