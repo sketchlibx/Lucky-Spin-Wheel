@@ -138,7 +138,6 @@ binding.wheelView.startLuckyWheelWithTargetIndex(index);
 🎨 XML Attributes
 You can customize the look and feel directly from XML layout.
 
-```xml
 LuckyWheelView
 | Attribute | Format | Description |
 |---|---|---|
@@ -153,7 +152,8 @@ CursorView
 | app:lsw_cursor_bodyColor | Color | Main color of the pointer |
 | app:lsw_cursor_borderColor | Color | Border color (Default: Gold Gradient) |
 | app:lsw_cursor_centerColor | Color | Center dot color (Default: Gold Gradient) |
-```
+
+l
 🤝 Contribution
 Contributions are welcome!
  * Fork the Project
